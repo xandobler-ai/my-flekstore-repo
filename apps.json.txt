@@ -1,85 +1,45 @@
 {
-  "source": "Xander's Random Apps",
+  "source": "Open-Source iOS Apps",
   "apps": [
     {
-      "name": "SunshineTracker",
+      "name": "Kiwix",
+      "version": "2.3.1",
+      "description": "Offline browser for Wikipedia and other content.",
+      "author": "Emmanuel Engelhart, Renaud Gaudin",
+      "url": "https://example.com/kiwix.ipa",
+      "icon": "https://example.com/kiwix-icon.png"
+    },
+    {
+      "name": "Signal",
+      "version": "5.0.0",
+      "description": "Encrypted messaging app.",
+      "author": "Signal Foundation",
+      "url": "https://example.com/signal.ipa",
+      "icon": "https://example.com/signal-icon.png"
+    },
+    {
+      "name": "Khronos glTF Viewer",
       "version": "1.0.0",
-      "description": "Track daily sunshine and weather patterns.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/sunshinetracker.ipa",
-      "icon": "https://example.com/icons/sunshinetracker.png"
+      "description": "View 3D models in glTF format.",
+      "author": "Khronos Group",
+      "url": "https://example.com/khronosviewer.ipa",
+      "icon": "https://example.com/khronos-icon.png"
     },
     {
-      "name": "MoodMixer",
-      "version": "0.9.1",
-      "description": "Generates a daily mood and motivational quote.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/moodmixer.ipa",
-      "icon": "https://example.com/icons/moodmixer.png"
+      "name": "OpenWeather",
+      "version": "3.2.0",
+      "description": "Weather forecasting app.",
+      "author": "OpenWeather",
+      "url": "https://example.com/openweather.ipa",
+      "icon": "https://example.com/openweather-icon.png"
     },
     {
-      "name": "PixelPainter",
-      "version": "2.1.0",
-      "description": "Online pixel art painting app.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/pixelpainter.ipa",
-      "icon": "https://example.com/icons/pixelpainter.png"
-    },
-    {
-      "name": "QuickNotes",
-      "version": "1.3.2",
-      "description": "Take quick notes and organize your ideas.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/quicknotes.ipa",
-      "icon": "https://example.com/icons/quicknotes.png"
-    },
-    {
-      "name": "FitnessPal",
-      "version": "4.0.0",
-      "description": "Track workouts and calories easily.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/fitnesspal.ipa",
-      "icon": "https://example.com/icons/fitnesspal.png"
-    },
-    {
-      "name": "DailyQuotes",
-      "version": "1.0.5",
-      "description": "Receive a motivational quote every day.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/dailyquotes.ipa",
-      "icon": "https://example.com/icons/dailyquotes.png"
-    },
-    {
-      "name": "BudgetBuddy",
-      "version": "2.2.1",
-      "description": "Track your expenses and savings effortlessly.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/budgetbuddy.ipa",
-      "icon": "https://example.com/icons/budgetbuddy.png"
-    },
-    {
-      "name": "PhotoFun",
+      "name": "Nextcloud",
       "version": "3.0.0",
-      "description": "Edit photos with fun filters and stickers.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/photofun.ipa",
-      "icon": "https://example.com/icons/photofun.png"
-    },
-    {
-      "name": "TaskMaster",
-      "version": "1.1.0",
-      "description": "Organize tasks and to-do lists efficiently.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/taskmaster.ipa",
-      "icon": "https://example.com/icons/taskmaster.png"
-    },
-    {
-      "name": "GameHub",
-      "version": "0.8.9",
-      "description": "Discover new mobile games and reviews.",
-      "author": "Xander Doble",
-      "url": "https://example.com/ipa/gamehub.ipa",
-      "icon": "https://example.com/icons/gamehub.png"
+      "description": "Cloud storage and file synchronization.",
+      "author": "Nextcloud GmbH",
+      "url": "https://example.com/nextcloud.ipa",
+      "icon": "https://example.com/nextcloud-icon.png"
     }
   ]
 }
