@@ -1,0 +1,67 @@
+[
+  {
+    "name": "SunshineTracker",
+    "version": "1.0.0",
+    "description": "An app to track daily sunshine and weather patterns.",
+    "author": "Xander Doble",
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/xandobler-ai/sunshinetracker.git"
+    },
+    "keywords": ["weather", "sunshine", "tracker"],
+    "dependencies": {
+      "axios": "^1.6.0"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  },
+  {
+    "name": "MoodMixer",
+    "version": "0.9.1",
+    "description": "Randomly generates a daily mood and motivational quote.",
+    "author": "Xander Doble",
+    "license": "MIT",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/xandobler-ai/moodmixer.git"
+    },
+    "keywords": ["mood", "quotes", "fun"],
+    "dependencies": {},
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  },
+  {
+    "name": "PixelPainter",
+    "version": "2.1.0",
+    "description": "A simple online pixel art painting app.",
+    "author": "Xander Doble",
+    "license": "MIT",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/xandobler-ai/pixelpainter.git"
+    },
+    "keywords": ["pixel", "painting", "art"],
+    "dependencies": {
+      "express": "^4.18.2",
+      "socket.io": "^4.7.1"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
+]
