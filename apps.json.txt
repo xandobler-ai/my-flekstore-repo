@@ -1,12 +1,12 @@
 {
-  "source": "Open-Source iOS Apps",
+  "source": "Open Source iOS Apps",
   "apps": [
     {
       "name": "Kiwix",
       "version": "2.3.1",
       "description": "Offline browser for Wikipedia and other content.",
       "author": "Emmanuel Engelhart, Renaud Gaudin",
-      "url": "https://example.com/kiwix.ipa",
+      "url": "https://archive.org/download/iOSObscura/Kiwix.ipa",
       "icon": "https://example.com/kiwix-icon.png"
     },
     {
@@ -14,32 +14,8 @@
       "version": "5.0.0",
       "description": "Encrypted messaging app.",
       "author": "Signal Foundation",
-      "url": "https://example.com/signal.ipa",
+      "url": "https://archive.org/download/iOSObscura/Signal.ipa",
       "icon": "https://example.com/signal-icon.png"
-    },
-    {
-      "name": "Khronos glTF Viewer",
-      "version": "1.0.0",
-      "description": "View 3D models in glTF format.",
-      "author": "Khronos Group",
-      "url": "https://example.com/khronosviewer.ipa",
-      "icon": "https://example.com/khronos-icon.png"
-    },
-    {
-      "name": "OpenWeather",
-      "version": "3.2.0",
-      "description": "Weather forecasting app.",
-      "author": "OpenWeather",
-      "url": "https://example.com/openweather.ipa",
-      "icon": "https://example.com/openweather-icon.png"
-    },
-    {
-      "name": "Nextcloud",
-      "version": "3.0.0",
-      "description": "Cloud storage and file synchronization.",
-      "author": "Nextcloud GmbH",
-      "url": "https://example.com/nextcloud.ipa",
-      "icon": "https://example.com/nextcloud-icon.png"
     }
   ]
 }
